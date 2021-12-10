@@ -1,0 +1,20 @@
+{
+    "Mover": {
+        "checkpoints": [
+            {
+                "steps": 318034,
+                "file_path": "results\\TrainingJumper001\\Mover\\Mover-318034.onnx",
+                "reward": -1.0699999779462814,
+                "creation_time": 1639147580.5824711,
+                "auxillary_file_paths": [
+                    "results\\TrainingJumper001\\Mover\\Mover-318034.pt"
+                ]
+            }
+        ]
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
