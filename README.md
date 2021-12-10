@@ -36,8 +36,11 @@ Om te beginnen is het nodig om dit project te clonen. Je kan ook een zip-bestand
 In de Scene folder kan je de JumperAsignmentScene vinden.
 Je kan nu zelf de getrainde agent runnen in je omgeving.
 
-ALs je zelf de agent wilt trainen moet je eerst de Brainmodel uit de agent verwijderen.
-image= ![](JumperAssignment/Images/BrainModel.png)
+Als je zelf de agent wilt trainen moet je eerst de Brainmodel uit de agent verwijderen.
+image= ![](https://github.com/AP-IT-GH/jumper-assignment-UdayaAp/blob/main/JumperAssignment/Images/BrainModel.PNG?raw=true)
 
 
 ### Training Resultaten#jumper-assignment-UdayaAp
+image= ![](https://github.com/AP-IT-GH/jumper-assignment-UdayaAp/blob/main/JumperAssignment/Images/result.PNG?raw=true)
+
+
